@@ -1,0 +1,8 @@
+# Arquivos temporários
+*.tmp
+
+# Arquivos de build
+/build/
+
+# Dependências
+/node_modules/
