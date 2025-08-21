@@ -1,1 +1,1 @@
-# workflow
+Este código atualiza o arquivo README.md com uma descrição clara do propósito do projeto, suas funcionalidades e instruções de uso. Certifique-se de substituir as seções genéricas (Funcionalidade 1, Descrição da funcionalidade 1, etc.) com informações relevantes para o projeto real.
