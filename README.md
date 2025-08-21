@@ -1,1 +1,1 @@
-# workflow
+Lembre-se de substituir os marcadores `[descrever sucintamente o objetivo do projeto]`, `[Funcionalidade 1]`, `[Funcionalidade 2]`, `[Funcionalidade 3]` e `[inserir tipo de licença]` com as informações específicas do seu projeto.
