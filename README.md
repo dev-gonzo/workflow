@@ -1,1 +1,1 @@
-# workflow
+Este código atualiza o arquivo README.md com a descrição do projeto, objetivos alcançados, instruções de contribuição e execução de testes. Certifique-se de adaptar as seções conforme necessário e adicionar informações específicas do projeto.
