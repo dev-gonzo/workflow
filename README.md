@@ -1,1 +1,19 @@
-# workflow
+# Novo Projeto
+
+## Propósito
+Este projeto tem como objetivo...
+
+## Instruções de Instalação
+Para instalar o projeto, siga os passos abaixo...
+
+## Uso
+Para utilizar o projeto, siga as instruções...
+
+## Contribuição
+Se deseja contribuir com o projeto...
+
+## Testes
+Para executar os testes, utilize o comando...
+
+## Qualidade do Código
+O projeto segue os seguintes padrões de qualidade...
