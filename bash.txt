@@ -1,0 +1,2 @@
+## Uso
+Para utilizar o projeto, execute o seguinte comando:

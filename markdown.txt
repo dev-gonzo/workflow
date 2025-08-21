@@ -1,0 +1,7 @@
+# Novo Projeto
+
+## Descrição
+Este projeto tem como objetivo...
+
+## Instalação
+Para instalar o projeto, siga os passos abaixo:
