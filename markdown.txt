@@ -1,0 +1,1 @@
+Este código implementa as sugestões de alterações no arquivo README.md, fornecendo uma descrição mais clara do projeto, detalhes sobre funcionalidades, instruções de como iniciar e usar o projeto, orientações para contribuições e informações sobre a licença.
