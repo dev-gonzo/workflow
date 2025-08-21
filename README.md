@@ -1,1 +1,1 @@
-# workflow
+Comentário: O README foi atualizado com informações relevantes sobre o novo projeto, incluindo propósito, instruções de instalação, uso, contribuição e testes. Certifique-se de preencher as seções com as informações corretas.
